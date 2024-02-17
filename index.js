@@ -1,4 +1,5 @@
 const readlineSync = require('readline-sync');
+console.log('Tela de Cadastro')
 const nome = readlineSync.question('Nome completo: ')
 obterInputComValidacao("Data de nascimento (DD-MM-AAAA): ", validarIdade);
 const emailUsuario = obterInputComValidacao("Email: ", validarEmail);
@@ -30,7 +31,7 @@ obterInputComValidacao("Senha: ", senha => validarSenhas(senhaDigitada, senha))
 
 console.clear()//limpar
 
-console.log('\x1b[0m', 'Bem Vindo ao Jogo')
+console.log('\x1b[0m', 'Bem Vindo ao Jogo! Escolha seu personagem: ')
 const personagens = [
    'Paladino', 'Atirador', 'Guerreiro', 'Barbaro', 'Arqueiro'
 ]
