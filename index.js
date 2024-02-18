@@ -1,3 +1,9 @@
+// para executar precisa do node instalado
+// npm init -y
+// npm i readline-sync
+// crie um arquivo index.js
+// rode no terminal node index.js
+
 const readlineSync = require('readline-sync');
 console.log('Tela de Cadastro')
 const nome = readlineSync.question('Nome completo: ')
