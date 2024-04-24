@@ -1,5 +1,5 @@
 
-# Aplicação de Cadastro via Terminal - Teste Lógica de Programação
+# Aplicação de Cadastro via Terminal - Lógica de programação
 
 Este é um projeto de uma aplicação de cadastro desenvolvida em JavaScript para ser executada no terminal utilizando Node.js.
 
