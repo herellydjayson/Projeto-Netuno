@@ -5,7 +5,8 @@ Este é um projeto de uma aplicação de cadastro desenvolvida em JavaScript par
 
 ## Motivação
 
-Este projeto foi desenvolvido como um exercício prático para aprimorar habilidades em Lógia de Programação, proporcionando uma oportunidade para aplicar conceitos de manipulação de dados, validação de entradas e interação com o usuário via terminal.
+Este projeto foi desenvolvido como teste em um processo seletivo para aprimorar habilidades em lógica de programação, manipulação de dados, validação de entradas e interação com o usuário via terminal.
+
 
 ## Como Usar
 
